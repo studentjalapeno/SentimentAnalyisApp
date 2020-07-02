@@ -9,8 +9,6 @@ import java.util.Map;
 
 /**
  * CS3354 Spring 2019 Review Handler Abstract Class specification
-    @author metsis
-    @author tesic
     @author Deven Meza
  */
 public abstract class AbstractReviewHandler {
